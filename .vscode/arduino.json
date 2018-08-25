@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "Sketches\\Ultrassonic Module\\Utrasonic_Module\\Utrasonic_Module.ino"
+}

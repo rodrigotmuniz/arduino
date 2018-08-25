@@ -1,0 +1,6 @@
+RunningTimeDelay	KEYWORD1
+micro			    KEYWORD2
+milli			    KEYWORD2
+microDigitalWrite	KEYWORD2
+milliDigitalWrite	KEYWORD2
+jumpToTheNext       KEYWORD2

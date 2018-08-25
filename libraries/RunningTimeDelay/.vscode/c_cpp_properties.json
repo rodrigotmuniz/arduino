@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/libs/Arduino/hardware/arduino/avr/cores/arduino",
+                "${workspaceFolder}/libs/Arduino/hardware/arduino/avr/variants/standard",
+                "${workspaceFolder}/libs/Arduino/hardware/tools/avr/avr/include",
+                "${workspaceFolder}/libs/Arduino/hardware/lib/gcc/avr/4.9.2/include",
+                "${workspaceFolder}/libs/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
